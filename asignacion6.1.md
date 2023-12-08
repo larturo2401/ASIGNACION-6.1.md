@@ -1,28 +1,28 @@
-# Tratados Internacionales de México
+# Organizador Gráfico: Acuerdos Internacionales y Tratados de México
 
-## Tipos de Tratados
+## Tipos de Acuerdos
 - **Bilaterales**
 - **Multilaterales**
 - **Regionales**
 
-## Tratados Importantes para México
-### TLCAN/T-MEC
-- Objetivos y alcance
-- Importancia económica
+## Acuerdos Destacados
+### 1. Tratados Comerciales
+   - T-MEC (anteriormente TLCAN)
+     - Objetivos y alcance
+     - Impacto económico
+   - CPTPP
+     - Participantes y objetivos
+     - Beneficios para México
+### 2. Acuerdos con la Unión Europea
+   - Asociación Económica, Concertación Política y Cooperación
+     - Impacto en relaciones comerciales
+     - Cooperación política
 
-### CPTPP
-- Participantes y objetivos
-- Beneficios para México
-
-### Tratados con la Unión Europea
-- Acuerdo de Asociación Económica, Concertación Política y Cooperación
-- Impacto en relaciones comerciales
-
-## Proceso de Ratificación y Participación de México
+## Proceso de Ratificación
 - Papel del Poder Ejecutivo y Legislativo
 - Consulta a la Sociedad Civil
 
-## Características Comunes de los Tratados Mexicanos
+## Características Comunes
 - Protección de derechos humanos
 - Fomento del comercio internacional
 - Cooperación en áreas específicas
@@ -30,12 +30,9 @@
 ## Importancia para México
 - Desarrollo económico
 - Fortalecimiento de relaciones diplomáticas
-- Participación en asuntos globales
+- Participación global
 
 ## Desafíos y Críticas
-- Aspectos controvertidos en algunos tratados
-- Opiniones divergentes en la sociedad mexicana
+- Controversias en algunos tratados
+- Divergencias de opinión en la sociedad
 
-## Conclusión
-- Recapitulación de la importancia de los tratados internacionales para México
-- Reflexiones sobre el papel de México en el escenario internacional
